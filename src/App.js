@@ -12,6 +12,10 @@ const QUESTIONS = [
     question: "What does HTTP stand for?",
     answer: "HyperText Transfer Protocol",
   },
+    {
+    question: "What does GTTP stand for?",
+    answer: "HyperText Transfer PPPPPPPPPPPPPP",
+  },
   {
     question: "Name a JavaScript primitive type.",
     answer: "string, number, boolean, null, undefined, symbol, or bigint",
